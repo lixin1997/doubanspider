@@ -67,6 +67,7 @@ def judge_category(categories):
         cate_name = category.get('category_name')
         cate_url = category.get('category_url')
         if cate_name == '豆瓣读书':
+            # print('开始爬取“豆瓣读书”！' + cate_url)
             print('info: BookSpider starting working to spider ' + cate_url)
             book_spider = BookSpider(cate_url, headers=headers, proxy=proxy, book_url_opath=dou_ban_book_path)
             book_spider.start()
