@@ -1,0 +1,8 @@
+豆瓣读书,https://book.douban.com
+豆瓣电影,https://movie.douban.com
+豆瓣音乐,https://music.douban.com
+豆瓣小组,https://www.douban.com/group/
+豆瓣同城,https://www.douban.com/location/
+豆瓣FM,https://douban.fm
+豆瓣时间,https://time.douban.com/?dt_time_source=douban-web_anonymous_index_top_nav
+豆瓣豆品,https://market.douban.com?utm_campaign=anonymous_top_nav&utm_source=douban&utm_medium=pc_web

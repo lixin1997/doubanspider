@@ -1,0 +1,3 @@
+新书速递:https://book.douban.com/latest?icn=index-latestbook-all
+受关注图书（虚构类）:https://book.douban.com/chart?subcat=F&icn=index-topchart-fiction
+受关注图书（非虚构类）:https://book.douban.com/chart?icn=index-topchart-nonfiction
